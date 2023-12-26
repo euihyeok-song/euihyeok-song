@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Euihyeok Song</h1>
-<h3 align="center">passionate backend deleveloper🔥🔥🔥</h3>
+<h3 align="center">This is my github Channel</h3>
 
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **dmlgur0517@daum.net**
 <p align="left">
 </p>
 
