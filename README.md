@@ -1,9 +1,26 @@
-<h1 align="center">Hi 👋, I'm Euihyeok Song</h1>
-<h3 align="center">This is my github Channel</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=EuihyeokSong🧑🏻‍💻&fontSize=40&animation=twinkling&textAlign=right)
 
-- 📫 How to reach me **dmlgur0517@daum.net**
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🙋🏻Introduce
+안녕하세요!! 끊임없이 도전과 경험을 통해 발전하는 백엔드 개발자 송의혁입니다.
+
+<br>
+
+### ⚙️ Tech Skill
+<img src="https://img.shields.io/badge/java-007396?logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5?logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?logo=Hibernate&logoColor=white"> <img src="https://img.shields.io/badge/Mybatis-DD0700?logo=Mybtis&logoColor=white"> <img src="https://img.shields.io/badge/SpringJPA-004088?logo=SpringJPA&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=MariaDB&logoColor=white"> <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white">
+
+<img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> 
+
+
+
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=euihyeok-song&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euihyeok-song&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kappie074)](https://solved.ac/kappie074/) 
+
